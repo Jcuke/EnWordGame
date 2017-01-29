@@ -1,3 +1,1 @@
-# EnWordGame
-# EnWordGame
-# EnWordGame
+需要下载jmf，在播放mp3格式的背景音乐时，需要下载mp3plugin相关的jar到jdk目录
